@@ -11,7 +11,7 @@
 - **rofi**, **polybar**, **alacritty**, **feh**, **gnu-free-fonts**
 - Опционально:
   - `paru` — AUR-хелпер
-  - `picom-ftlab`s — композитный менеджер
+  - `picom-ftlabs` — композитный менеджер
   - `catppuccin` — темы
   - `papirus` — иконки
   - `betterlockscreen` — блокировка экрана
